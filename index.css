@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background-color: #eee;
+}
+.wrapper{
+    width: 880px;
+    margin: auto;
+}
+.wrapper li{
+    width: 25%;
+    float: left;
+}
+.wrapper li .item{
+    margin: 5px;
+    padding:10px;
+    background-color: #fff;
+}
+.wrapper li .item img{
+    width: 100%;
+
+}
